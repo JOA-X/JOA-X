@@ -1,16 +1,13 @@
-## Hi there 👋
+# 关于我（about me)
 
-<!--
-**JOA-X/JOA-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 我目前正在研究如何使用git
+- 🌱 正在学习：cs61a ，英语
+- 😎 我希望以后能入职关于游戏开发方面的岗位
+- 🤔 我正在寻找一切实用的编程教学
+- 💬 可以问我关于编程和生活方面的问题
+- 📫 如何联系我: jahox050102@skiff.com
+- 😄 性格: 慢热，幽默风趣
+- ⚡ 我的现实: 正在努力学习编程ing
+
